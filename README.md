@@ -37,11 +37,7 @@ Make sure you have this installed on your machine:
    ```bash
    git clone https://github.com/TJInGitHub/Vue.js-project.git
 
-3. Navigate into your repository name by typing this:
-
-   '''bash
-   cd your-repository-name
-   
+3. Navigate into your repository name by typing "cd your-repository-name".
 5. Install dependencies as you will need this packages to run the file by typing 'npm install'
 6. To run the app type 'npm run serve', but if you are using the VS code terminal type 'npm run dev' instead.
 7. Now open any of your browser and go to the 'http://localhost:port number' displayed in your terminal
