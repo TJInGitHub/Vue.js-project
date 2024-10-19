@@ -17,6 +17,7 @@ This is my portfolio web app! It's an assignment given to me to introduce myself
 - **Vue Router**: I used this for managing application routes and navigation.
 - **Bootstrap**: It allows me to create a responsive design and for styling.
 - **Bootstrap Icons**: To provide vector icons to be used in this app which are present in my social media links.
+- **ChatGPT**: an AI tool that helped me to have a basis design in which I adjusted based on my personal design preference, for correcting my codes and other inquiries.
 
 ## Getting Started
 
