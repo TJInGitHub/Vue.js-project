@@ -4,7 +4,7 @@ This is my portfolio web app! It's an assignment given to me to introduce myself
 
 ## Features
 
-- **Home/Login Page**: It will allow you to access my portfolio. Use 'Timothy' for the Username and 'Eusebio' for password.
+- **Home/Login/Logout Page**: It will allow you to access my portfolio. Use 'Timothy' for the Username and 'Eusebio' for password. You will also be redirected here upon logging out.
 - **Dashboard**: This is a sidebar to allow you to navigate easily in my web app.
 - **Profile Page**: It displays my personal information and links to my social media.
 - **Showcase Page**: It shows here some of the projects I've taken and currently taking.
